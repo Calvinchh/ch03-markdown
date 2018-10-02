@@ -10,8 +10,8 @@ course title (in _italics_), and instructor.
 
 See `complete` branch for answers.
 
-__________________________________________________________________________
-| Informatics 201                                                         |
-| Informatics 180                                                         |
-| Near East 101                                                           |
-__________________________________________________________________________
+| Course Number | Course Title	| Instructor |
+| ------------- |  ------------- | ------------- |
+| **INFO201**| _Technical Foundations_ | Ott Toomet |
+| **INFO180**| _Intro to Data Science_ | Jevin West |
+| **PHYS101**| _Mechanics_	| Albert Einstein |
