@@ -9,3 +9,9 @@ you are taking, with separate columns for course number (in **bold**),
 course title (in _italics_), and instructor.
 
 See `complete` branch for answers.
+
+__________________________________________________________________________
+| Informatics 201                                                         |
+| Informatics 180                                                         |
+| Near East 101                                                           |
+__________________________________________________________________________
